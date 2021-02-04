@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="5"
+    tools:context=".MainActivity">
+
+    <Button
+        android:text="B1"/>
+    <Button
+        android:text="B2"/>
+    <Button
+        android:text="B3"/>
+    <Button
+        android:text="B4"/>
+    <Button
+        android:text="B5"/>
+    <Button
+        android:text="B6"/>
+    <Button
+        android:text="B7"/>
+    <Button
+        android:text="B8"/>
+    <Button
+        android:text="B9"/>
+</GridLayout>
